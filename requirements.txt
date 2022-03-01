@@ -1,0 +1,27 @@
+appnope @ file:///opt/concourse/worker/volumes/live/6ca6f098-d773-4461-5c91-a24a17435bda/volume/appnope_1606859448531/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+certifi==2021.10.8
+debugpy @ file:///opt/concourse/worker/volumes/live/fb0af3c0-b0a4-42c5-46e7-6ce9c84da602/volume/debugpy_1637091827531/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+entrypoints==0.3
+ipykernel @ file:///opt/concourse/worker/volumes/live/6f6caad4-5c02-4b4a-5243-1eece346c27b/volume/ipykernel_1633545433252/work/dist/ipykernel-6.4.1-py3-none-any.whl
+ipython @ file:///opt/concourse/worker/volumes/live/4c3cce71-ced8-42c4-43fc-7be66d2225a8/volume/ipython_1643818166775/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+jedi @ file:///opt/concourse/worker/volumes/live/89be3eb0-a85c-453b-67dd-f706f2fa4c43/volume/jedi_1644315269953/work
+jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
+jupyter-core @ file:///opt/concourse/worker/volumes/live/365b665b-3a8e-478f-5f79-ff4d9b0854bd/volume/jupyter_core_1636537252467/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+numpy==1.22.2
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pyzmq @ file:///opt/concourse/worker/volumes/live/dbbc086d-2905-496b-54ee-08109e9ced8d/volume/pyzmq_1638435006316/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tornado @ file:///opt/concourse/worker/volumes/live/2c1a63a2-006b-48ee-56b9-0cfe8b4927f9/volume/tornado_1606942321278/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
